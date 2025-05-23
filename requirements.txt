@@ -1,0 +1,14 @@
+sentence-transformers
+langchain
+flask
+pypdf
+python-dotenv
+pinecone-client
+langchain-pinecone
+langchain-openai
+langchain-experimental
+langchain-community
+ipykernel
+pinecone[grpc]
+groq
+langchain-groq
